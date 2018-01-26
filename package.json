@@ -18,6 +18,6 @@
   "homepage": "https://github.com/bioand/first#readme",
   "dependencies": {
     "@biobright/bbcrypto": "^1.0.4",
-    "@bioand/scope": "bioand/scope"
+    "@bioand/scope": "bioand/scope#semver:^0.1.0"
   }
 }
