@@ -1,0 +1,23 @@
+{
+  "name": "first",
+  "version": "0.0.1",
+  "description": "Test using scoped packages from github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bioand/first.git"
+  },
+  "author": "Antony Donovan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bioand/first/issues"
+  },
+  "homepage": "https://github.com/bioand/first#readme",
+  "dependencies": {
+    "@biobright/bbcrypto": "^1.0.4",
+    "@bioand/scope": "bioand/scope"
+  }
+}
